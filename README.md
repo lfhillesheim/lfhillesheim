@@ -15,20 +15,17 @@
 
 ### 📫 How to reach me:
 
+
 <a href="https://www.linkedin.com/in/lfhillesheim/">
-	  <code><img alt="My linkedin" width="28" src="https://www.linkedin.com/in/lfhillesheim/" /></code>
-
+  <code><img alt="My linkedin" width="28" src="https://github.com/alquipo/alquipo/blob/main/img/linkedin.png" /></code>
 </a>
-<a href="https://twitter.com/alquiponeto">
-  src="https://github.com/alquipo/alquipo/blob/main/img/twitter.png"
+<a href="https://twitter.com/LucasCentrista">
+  <code><img alt="My linkedin" width="28" src="https://github.com/alquipo/alquipo/blob/main/img/twitter.png" /></code>
 </a>
-
-
 <a href="mailto:lucas.ferreira.hillesheim@gmail.com?subject=Olá%20vi%20seu%20Github%20podemos%20conversar">
   <code><img alt="My linkedin" width="28" src="https://github.com/alquipo/alquipo/blob/main/img/email.png" /></code>
 </a>
 <br/>
-
 
 
 **Application**
