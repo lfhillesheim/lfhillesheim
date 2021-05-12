@@ -23,7 +23,7 @@
   <code><img alt="My linkedin" width="28" src="https://github.com/alquipo/alquipo/blob/main/img/twitter.png" /></code>
 </a>
 <a href="mailto:lucas.ferreira.hillesheim@gmail.com?subject=Olá%20vi%20seu%20Github%20podemos%20conversar">
-  <code><img alt="My linkedin" width="28" src="https://github.com/alquipo/alquipo/blob/main/img/email.png" /></code>
+  <code><img alt="My linkedin" width="30" src="https://github.com/alquipo/alquipo/blob/main/img/email.png" /></code>
 </a>
 <br/>
 
