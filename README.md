@@ -1,52 +1,34 @@
-<center>
-  <table>
-    <tr>
-	<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfhillesheim&hide=php&layout=compact&theme=radical"/> 
-    </tr>
-  </table>
-</center>
-
 ## Hi There <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png?1482947228"/>
-
-
 ### I am a data scientist and developer who believes that we can make any dream come true! :bulb:
-
 ---
-
-### 📫 How to reach me:
-
-
-<a href="https://www.linkedin.com/in/lfhillesheim/">
-  <code><img alt="My linkedin" width="28" src="https://github.com/alquipo/alquipo/blob/main/img/linkedin.png" /></code>
-</a>
-<a href="https://twitter.com/LucasCentrista">
-  <code><img alt="My linkedin" width="28" src="https://github.com/alquipo/alquipo/blob/main/img/twitter.png" /></code>
-</a>
-<a href="mailto:lucas.ferreira.hillesheim@gmail.com?subject=Olá%20vi%20seu%20Github%20podemos%20conversar">
-  <code><img alt="My linkedin" width="30" src="https://github.com/alquipo/alquipo/blob/main/img/email.png" /></code>
-</a>
-<br/>
-
-
-**Application**
+ <div>
+  <a href="https://github.com/lfhillesheim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfhillesheim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfhillesheim&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Lucas-SAS" height="30" width="40" src="  https://symbols.getvecta.com/stencil_95/17_sas-icon.37a49ec52c.svg">  <img align="center" alt="Lucas-Salesforce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
+ 
+ 
+ <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-
-
-**DevOps**
-
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
-
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/lucas_hillesheim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discordapp.com/users/433435878959087635" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucas.ferreira.hillesheim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lfhillesheim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/lfhillesheim/lfhillesheim/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 ![](https://komarev.com/ghpvc/?username=alquipo&color=blue&style=flat)
