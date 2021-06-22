@@ -17,7 +17,7 @@
 
 <img align="right" alt="Lucas-psyduck" src="https://media1.tenor.com/images/40004540d1314c615bba0696cb52aa6d/tenor.gif?itemid=21760771" height="125" >
 
-## Contatos
+## Como me Achar?
 
 <div> 
 
