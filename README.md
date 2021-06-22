@@ -1,5 +1,5 @@
-## Hi There <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png?1482947228"/>
-### I am a data scientist and developer who believes that we can make any dream come true! :bulb:
+## Hi There! <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png?1482947228"/>
+### Meu nome é Lucas, sou um Cientista de dados, com 21 anos, sou natural de Blumenau/SC e nesse repositório, talvez eu possa te mostrar algo meramente relevante :bulb:
 ---
  <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfhillesheim&theme=dracula&hide_langs_below=1" />
