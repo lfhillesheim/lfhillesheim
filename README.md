@@ -6,7 +6,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lfhillesheim&show_icons=true&theme=dracula&line_height=27" alt="Lucas github stats"/>
 </div>
 
-## Minhas Stacks! <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png?1482947228"/> 
+## Minhas Stacks! 
 
 
 <div style="display: inline_block"><br>
