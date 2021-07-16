@@ -25,10 +25,6 @@
 
  <br> <br> <br> <br> <br>
 
- 
- <img align="right" alt="Lucas-psyduck" src="https://open.spotify.com/embed/playlist/7k5kakFG3dkKEzk8ipCKY4" height="150">
-   <iframe src="https://open.spotify.com/embed/playlist/7k5kakFG3dkKEzk8ipCKY4" width="20%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</img>
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
- 
 </div>
