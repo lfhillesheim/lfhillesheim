@@ -24,9 +24,11 @@
 <a href="https://www.instagram.com/lucas_hillesheim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://discordapp.com/users/433435878959087635" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <a href = "mailto:lucas.ferreira.hillesheim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/lfhillesheim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "https://open.spotify.com/user/lucas.ferreira.hillesheim"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> <a href = "https://twitter.com/Lucass_Lucro"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
  <br> <br> <br> <br> <br>
- <figure class="video_container">
+
+ 
+ <img align="right" alt="Lucas-psyduck" src="https://open.spotify.com/embed/playlist/7k5kakFG3dkKEzk8ipCKY4" height="150">
    <iframe src="https://open.spotify.com/embed/playlist/7k5kakFG3dkKEzk8ipCKY4" width="20%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</figure>
+</img>
 
  
 </div>
