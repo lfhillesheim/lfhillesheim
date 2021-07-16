@@ -26,10 +26,10 @@
  <br> <br> <br> <br> <br>
  
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/7k5kakFG3dkKEzk8ipCKY4)
-
  <div>
+  <a>
  <iframe src="https://open.spotify.com/embed/playlist/7k5kakFG3dkKEzk8ipCKY4" width="100%" height="150" allowtransparency="false" allow="encrypted-media"</iframe>
+   </a> 
  </div>
  
 </div>
