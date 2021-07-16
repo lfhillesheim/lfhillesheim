@@ -28,8 +28,8 @@
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/7k5kakFG3dkKEzk8ipCKY4)
 
- 
- <iframe src="https://open.spotify.com/embed/playlist/7k5kakFG3dkKEzk8ipCKY4" width="100%" height="150" frameBorder="0" allowtransparency="true" allow="encrypted-media"</iframe>
- 
+ <div>
+ <iframe src="https://open.spotify.com/embed/playlist/7k5kakFG3dkKEzk8ipCKY4" width="100%" height="150" allowtransparency="false" allow="encrypted-media"</iframe>
+ </div>
  
 </div>
