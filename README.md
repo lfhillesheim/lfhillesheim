@@ -26,10 +26,5 @@
  <br> <br> <br> <br> <br>
  
 
- <div>
-  <a>
- <iframe src="https://open.spotify.com/embed/playlist/7k5kakFG3dkKEzk8ipCKY4" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-   </a> 
- </div>
  
 </div>
