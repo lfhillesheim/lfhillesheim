@@ -1,5 +1,5 @@
 ## Hi There! <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png?1482947228"/>
-### Meu nome é Lucas, sou um Cientista de dados, com 21 anos, sou natural de Blumenau/SC e nesse repositório, talvez eu possa te mostrar algo meramente relevante :bulb:
+### Meu nome é Lucas, Apaixonado por Dados e Inovação || BI | Análise | Ciência | Governança, Engenharia & Arquitetura | Cultura e Transormação
 ---
  <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfhillesheim&theme=dracula&hide_langs_below=1" />
