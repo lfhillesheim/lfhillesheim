@@ -14,9 +14,9 @@ Atualmente, estou focado em projetos de Inteligência Artificial e Machine Learn
 
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-<img align="center" alt="Lucas-SAS" height="30" width="40" src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg">
-<img align="center" alt="Lucas-Power BI" height="30" width="40" src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/6e4d321e62114ab96bc64a05075608c901a34c37/SVG/Desktop.svg">
+
+![image](https://github.com/user-attachments/assets/6588f1d4-0b16-4c3d-8aa3-bd31eae95beb)
+
 </div>
   
 ##
