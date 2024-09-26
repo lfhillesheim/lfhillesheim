@@ -4,12 +4,6 @@
 Atualmente, estou focado em projetos de Inteligência Artificial e Machine Learning, onde aplico minha expertise para desenvolver soluções.
 
 
----
- <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfhillesheim&theme=dracula&hide_langs_below=1" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lfhillesheim&show_icons=true&theme=dracula&line_height=27" alt="Lucas github stats"/>
-</div>
-
 ## Minhas Stacks! 
 
 
