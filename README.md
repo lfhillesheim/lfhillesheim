@@ -51,7 +51,7 @@ open_to:   [ consultoria, parcerias, integrações via API/MCP ]
 ### <img src="https://img.shields.io/badge/01-22D3EE?style=flat-square&labelColor=0B1120" /> Contaí — calculadoras financeiras do Brasil
 
 <a href="https://calculas.com.br/">
-  <img src="assets/contai.png" width="100%" alt="Contaí — calculas.com.br" />
+  <img width="100%" alt="Contaí — calculas.com.br" height="430" alt="image" src="https://github.com/user-attachments/assets/a315063b-23c6-4430-a484-f534b3dc6cfe" />
 </a>
 
 <div align="center">
@@ -72,7 +72,7 @@ open_to:   [ consultoria, parcerias, integrações via API/MCP ]
 ### <img src="https://img.shields.io/badge/02-A78BFA?style=flat-square&labelColor=0B1120" /> Combinado Não Sai Caro — contratos com IA, do zero ao distrato
 
 <a href="https://contratocombinado.com/">
-  <img src="assets/contrato.png" width="100%" alt="Combinado Não Sai Caro — contratocombinado.com" />
+  <img width="918" width="100%" alt="Combinado Não Sai Caro — contratocombinado.com"  height="437" src="https://github.com/user-attachments/assets/de6c909b-35b5-408b-b337-5ebb6926416e" />
 </a>
 
 <div align="center">
@@ -114,7 +114,7 @@ open_to:   [ consultoria, parcerias, integrações via API/MCP ]
 ### <img src="https://img.shields.io/badge/04-4ADE80?style=flat-square&labelColor=0B1120" /> Alecrim Flor & Cultura — negócio local, marketing 90% automatizado
 
 <a href="https://alecrimflorcultura.com.br/">
-  <img src="assets/alecrim.png" width="100%" alt="Alecrim Flor & Cultura — alecrimflorcultura.com.br" />
+  <img width="100%" alt="Alecrim Flor & Cultura — alecrimflorcultura.com.br" height="437" alt="image" src="https://github.com/user-attachments/assets/78c7f4e7-6719-494d-880f-f2b02e3e947d" />
 </a>
 
 <div align="center">
